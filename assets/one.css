@@ -1,0 +1,313 @@
+/*------------------------------------
+    One color style sheet
+	
+	just replace "fd4326" with your custom color
+------------------------------------*/
+/*
+================================================
+1. Top Wrapper
+================================================
+*/
+.navbar-default .navbar-nav.nav li:hover > a, .navbar-default .navbar-nav li.active > a:hover, .navbar-default .navbar-nav li.active > a:focus, .navbar-default .navbar-nav li.active > a, .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover, .navbar-default .nav .open > a, .navbar-default .nav .open > a:focus, .navbar-default .nav .open > a:hover, .side-nav li > a:focus {
+	color: #fd4326;
+}
+.cart-signup li .sign-up {
+	background: #fd4326;
+}
+/*
+================================================
+2. Banner
+================================================
+*/
+.banner-wrapper .fade-carousel .carousel-control span:hover {
+	border: 2px solid #fd4326;
+	background: #fd4326;
+}
+.banner-wrapper .hero h1 {
+	color: #fd4326;
+}
+.banner-wrapper .btn-hero:hover {
+	border: 1px solid #fd4326;
+	background: #fd4326;
+}
+/*
+================================================
+9. Header Bottom Arrow
+================================================
+*/
+.bottom_row {
+	background: url(../images/bottom-arrow-bg.png) no-repeat center center;
+}
+/*
+================================================
+3. Domain Search
+================================================
+*/
+.domain-search {
+	background: #fd4326;
+}
+/*
+================================================
+4. Domain Prices
+================================================
+*/
+.domain-prices .prices h4:hover, .domain-prices .prices h4.active {
+	background: #fd4326;
+}
+/*
+================================================
+12. About Us
+================================================
+*/
+.about-us .read-more {
+	background: #fd4326;
+}
+/*
+================================================
+5. Dream Host
+================================================
+*/
+.dream-host {
+	background: #fd4326;
+}
+/*
+================================================
+15. Our Services
+================================================
+*/
+.our-services .services:hover .live-chat-icon {
+	background: url(../images/live-chat-icon-hover.png) no-repeat left top;
+}
+.our-services .services:hover .domain-transfer-icon, .our-services .services.active .domain-transfer-icon {
+	background: url(../images/domain-transfer-icon-hover.png) no-repeat left top;
+}
+.our-services .services:hover .secured-server-icon {
+	background: url(../images/secured-server-icon-hover.png) no-repeat left top;
+}
+.our-services .services:hover .domain-panel-icon {
+	background: url(../images/domain-panel-icon-hover.png) no-repeat left top;
+}
+/*
+================================================
+16. What we do
+================================================
+*/
+.what-we-do .what-we .protection-icon {
+	background:url(../images/data-protection-icon.png) no-repeat left top;
+}
+.what-we-do .what-we .optimization-icon {
+	background:url(../images/optimization-icon.png) no-repeat left top;
+}
+.what-we-do .what-we .data-analysis-icon {
+	background:url(../images/data-analysis-icon.png) no-repeat left top;
+}
+.what-we-do .what-we .data-enctyption-icon {
+	background:url(../images/data-enctyption-icon.png) no-repeat left top;
+}
+/*
+================================================
+6. Hosting Platforms
+================================================
+*/
+.hosting-platforms .plans:hover, .hosting-platforms .plans.active {
+	background: #fd4326;
+}
+.hosting-platforms .plans:hover h3, .hosting-platforms .plans.active h3 {
+	background: #fd4326;
+}
+/*
+================================================
+7. Testimonials
+================================================
+*/
+.testimonials .item p::before {
+	color: #fd4326;
+}
+.testimonials .item .tes-details h3 {
+	color: #fd4326;
+}
+.testimonials .carousel-indicators .active {
+	background: #fd4326;
+}
+/*
+================================================
+8. Inner Page Styles
+================================================
+*/
+.banner-wrapper.inner-banner {
+	border-bottom: 36px solid #fd4326;
+}
+/*
+================================================
+9. Inner Page Styles
+================================================
+*/
+.inner-wrapper li i {
+	color: #fd4326;
+}
+.inner-wrapper .read-more {
+	background: #fd4326;
+}
+/*
+================================================
+10. Hosting
+================================================
+*/
+.hosting-banner h1 {
+	color: #fd4326;
+}
+.hosting-banner .price span {
+	color: #fd4326;
+}
+.hosting-banner .price span i {
+	color: #fd4326;
+}
+.hosting-banner .buynow a {
+	background: #fd4326;
+}
+.hosting-banner .sale h2 {
+	color: #fd4326;
+}
+/*
+================================================
+11. Hosting Features
+================================================
+*/
+.hosting-features .features:hover {
+	background: #fd4326;
+}
+/*
+================================================
+12. Faq
+================================================
+*/
+.faq .panel-title a {
+	background-color: #fd4326;
+	border: solid 1px #fd4326;
+	border-left: solid 10px #fd4326;
+}
+.faq .panel-title a.collapsed {
+	border-left: solid 10px #fd4326;
+}
+/*
+================================================
+13. Call Back
+================================================
+*/
+.call-back form .btn {
+	background: #fd4326;
+}
+/*
+================================================
+14. Domain Register
+================================================
+*/
+.domain-register h3 {
+	color: #fd4326;
+}
+.domain-register:hover a {
+	background: #fd4326;
+}
+.domain-register:hover {
+	box-shadow: 0 0 5px rgba(253, 67, 38, 1);
+}
+/*
+================================================
+15. Domain Transfer
+================================================
+*/
+.inner-wrapper.what-we-do .what-we i {
+	background: #fd4326;
+}
+/*
+================================================
+16. Domain Price
+================================================
+*/
+.tables .table-custom.table-dark tr th {
+	background: #fd4326;
+}
+/*
+================================================
+17. About Us Page
+================================================
+*/
+.inner-wrapper .callout {
+	border-bottom: solid 3px #fd4326;
+}
+/*
+================================================
+18. Our Team
+================================================
+*/
+.our-team .team:hover {
+	border: solid 1px #fd4326;
+}
+.our-team .team:hover .team-cnt {
+	background: #fd4326;
+}
+/*
+================================================
+19. 404
+================================================
+*/
+.error-page h3 {
+	color: #fd4326;
+}
+.error-page a {
+	background: #fd4326;
+}
+/*
+================================================
+20. Blog Page
+================================================
+*/
+.inner-wrapper.blog .thumbnail:hover .caption a.readmore {
+	background: #fd4326;
+	border: solid 1px #fd4326;
+}
+.inner-wrapper.blog .date {
+	background: #fd4326;
+}
+.blog-pagination .pagination > li > a:focus, .blog-pagination .pagination > li > a:hover, .blog-pagination .pagination > li > span:focus, .blog-pagination .pagination > li > span:hover {
+	background-color: #fd4326;
+}
+/*
+================================================
+21. Blog Details
+================================================
+*/
+.inner-wrapper .single-post .list-inline li a:hover {
+	background: #fd4326;
+}
+.inner-wrapper .single-post .thumbnail .date {
+	background: #fd4326;
+}
+.inner-wrapper .single-post .btn-1 {
+	background: #fd4326;
+}
+.inner-wrapper .single-post .sidebar h3::after {
+	background-color: #fd4326;
+}
+.inner-wrapper .sidebar .tags li:hover {
+	background: #fd4326;
+}
+/*
+================================================
+22. Contact Details
+================================================
+*/
+.contact-details {
+	background: #fd4326;
+}
+/*
+================================================
+23. Footer Wrapper
+================================================
+*/
+.footer-wrapper a:hover {
+	color: #fd4326;
+}
+.footer-wrapper li i {
+	color: #fd4326;
+}
